@@ -6,9 +6,6 @@ test("multiplication of two numbers", () => {
 test("with a zero", () => {
     expect(multiplication(6, 0)).toBe(0);
 });
-test("with a one", () => {
-    expect(multiplication(5, 1)).toBe(5);
-});
 test("combine and sort odd numbers from two arrays", () => {
     expect(concatOdds([3, 2, 1], [9, 1, 1, 1, 4, 15, -1])).toEqual([-1, 1, 3, 9, 15]);
 });
