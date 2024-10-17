@@ -1,0 +1,17 @@
+1. Amazon empty cart: go inside of the cart when it is empty and get hit with a display “Your cart is empty” message whilst the link in inside of it.
+
+2. Trying to check out as a guest: hit checkout as a guest. Be allowed to checkout as a guest or ask if I want to create an account. 
+
+3. Login into the account: while doing a guest checkout there is a button to login to the existing account or to register an account.
+
+4. Logged into the account: while logged in its pretty straight forward without any annoying prompts asking me to login. Smooth process.
+
+5. Checkout step by step: going over the saved options of the shipping details and payment options while being able to go back to cart without loosing the data.
+
+6. Input data: in case I put a wrong 3 digit pin, I shall be hit with an error prompt asking me to try again.
+
+7. Reviewing before submitting: going over the data (shipping and payment details) and making sure everything in the cart is still available and in case I would like to change something, I will have the edit option.
+
+8. Payment has not gone through: happens to the best of us. Maybe the bank did not allow to proceed due to insufficient funds or security reasons. A prompt will show up with alternative payment option.
+
+9. Successful order placement: payment was complete and I will be redirected to a page with a thank you for your order message and with an approximate date of delivery.
